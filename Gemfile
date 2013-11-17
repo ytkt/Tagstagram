@@ -48,3 +48,5 @@ end
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-instagram'
+
+gem 'nokogiri'
