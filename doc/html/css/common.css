@@ -137,12 +137,13 @@ body {
 	height:80px;
 }
 #content {
-	height:250px;
+	height:350px;
 }
 .siteDescription {
 	padding:20px 60px;
 }
- .btnLogin {
+ .btnAreaTop {
+	 width:320px;
 	 text-align:center;
 }
 .topPictArea {
@@ -150,19 +151,20 @@ body {
 	text-align:center;
 }
 
-#topFooter {
+#footer {
 	position: relative;
 	/*border:solid 1px #000;*/
 	height:60px;
+	width:320px;
 }
 footer #copyright {
     position: absolute;
     bottom: 0;
 	background:#707070;
 	width:100%;
-	padding-left:10px;
 	height:30px;
 }
 #copyright span {
+	margin-left:10px;
 	line-height:35px;
 }
