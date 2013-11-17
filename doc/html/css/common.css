@@ -179,6 +179,11 @@ body {
 .albumPhoto {
 	background:url(../images/album_back.jpg) no-repeat;
 	width:137px;
+	height:150px;
+}
+.albumCover {
+	padding:10px;
+	
 }
 
 #footer {
