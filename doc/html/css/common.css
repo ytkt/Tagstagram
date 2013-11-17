@@ -243,3 +243,14 @@ footer #copyright {
 #copyright span {
 	margin-left:10px;
 }
+
+
+.ul_taglist {
+	width: 300px;
+	padding: 20px;
+	margin: 0 auto;
+	background: url(../images/bg_footer01.png) repeat;
+}
+	.ul_taglist li.tag {
+		margin: 5px 0;		
+	}
