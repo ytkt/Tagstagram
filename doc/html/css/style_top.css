@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.siteDescription {
+	text-align: center;
+}
+
+.siteDescription02 {
+	padding:20px ;
+	text-align: center;
+}
+.btnLogin {
+	border: none;
+	cursor: pointer;
+}
