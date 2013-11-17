@@ -199,6 +199,31 @@ body {
 .btnSearch {
 	margin:30px 0;
 }
+
+/* 写真集表示 */
+ul.thumbnail { list-style-type: none; }
+ul.thumbnail li {
+ float: left;
+ margin: 0 5px 0 5px;
+}
+ul.thumbnail li img {
+ /*border: 2px solid #bbb;*/
+  width: 120px;
+ height: 90px;
+}
+ul.thumbnail li a { display: block; }
+
+.clearfix:after {
+ content: ".";
+ display: block;
+ height: 0;
+ line-height: 0;
+ clear: both;
+ visibility: hidden;
+}
+.clearfix { display: inline-block; }
+
+
 #footer {
 	position: relative;
 	/*border:solid 1px #000;*/
