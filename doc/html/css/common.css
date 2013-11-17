@@ -208,11 +208,11 @@ body {
 footer #copyright {
     position: absolute;
     bottom: 0;
-	background:#707070;
+	color: #fff;
+	background: url(../images/bg_footer01.png) repeat;
 	width:100%;
-	height:30px;
+	padding: 10px 0 12px;
 }
 #copyright span {
 	margin-left:10px;
-	line-height:35px;
 }
